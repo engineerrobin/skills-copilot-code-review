@@ -7,3 +7,4 @@ applyTo: "*.html,*.css,*.js"
 - Use accessibility attributes (alt text, aria labels) and color schemes.
 - Use responsive design for compatibility with mobile devices.
 - Validate HTML structure and semantic elements
+- Ensure CSS is organized and follows a consistent naming convention (e.g., BEM).
